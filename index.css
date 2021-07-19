@@ -1,13 +1,18 @@
 #style{
-    color: black;
-
+    color: whitesmoke;
+    font-family: cursive;
 }
 div{
     background-color: transparent;
 }
 .h{
-    background-color: wheat;
+    background-color: ;
 }
 .o{
     color: red;
+    font-size: larger;
+    
+}
+body{
+    text-align: center;
 }

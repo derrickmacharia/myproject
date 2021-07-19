@@ -1,5 +1,13 @@
+#style{
+    color: black;
 
-.style{
-    color: saddlebrown;
-    background-color: salmon;
+}
+div{
+    background-color: transparent;
+}
+.h{
+    background-color: wheat;
+}
+.o{
+    color: red;
 }

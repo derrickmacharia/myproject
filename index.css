@@ -10,14 +10,23 @@ div{
 }
 .o{
     color: red;
-    font-size: larger;
+    font-size: x-large;
+    font-weight: bold;
     
 }
 body{
     text-align: center;
     font-style: italic;
 }
-#image{
+#image3{
     height: 200px;
     width: 350px;
+}
+#image5{
+    height: 230px;
+
+}
+#image1{
+    height: 300px;
+    width: 400px;
 }

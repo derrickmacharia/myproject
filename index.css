@@ -31,3 +31,7 @@ body{
     height: 300px;
     width: 400px;
 }
+img{
+    border-color: whitesmoke;
+    border-style: double;
+}

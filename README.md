@@ -4,11 +4,10 @@
 ## Description
 This is a simple detailed description of the anime site ,background , goal and to sustain the viewer.
 ## Setup/Installation Requirements
-* This is a list anime
-* used
-* in a simple
-* easy-to-understand
-* format
+* Login to this
+* website by 
+* typing 
+* https://derrrickmacharia.github.io/myproject
 ## Technologies Used
 The project uses HTML and CSS.
 

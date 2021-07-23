@@ -7,7 +7,7 @@ This is a simple detailed description of the anime site ,background , goal and t
 * Login to this
 * website by 
 * typing 
-* https://derrrickmacharia.github.io/myproject
+* https://derrrickmacharia.github.io/myproject/
 ## Technologies Used
 The project uses HTML and CSS.
 
@@ -15,7 +15,7 @@ The project uses HTML and CSS.
 landing page.
 ![](./images/sketch.jpg)
 ## Support and contact details 
-If you have any enquiries you contact meon derrick.macharia@student.moringaschool.com
+If you have any enquiries you contact me on derrick.macharia@student.moringaschool.com
 ### License
 MIT license
 Copyright (c) {2021} **Derrick Macharia**
